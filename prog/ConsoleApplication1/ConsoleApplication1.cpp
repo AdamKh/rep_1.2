@@ -8,4 +8,7 @@ int main()
     a = 5;
     b = 2;
     cout << "a = " << a << "b = " << b;
+    if (a < b) {
+        cout << "\na < b";
+    }
 }
