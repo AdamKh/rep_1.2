@@ -11,4 +11,8 @@ int main()
     if (a < b) {
         cout << "\na < b";
     }
+    else
+    {
+        cout << "\nb < a";
+    }
 }
